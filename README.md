@@ -27,7 +27,8 @@ Commercial web product for a real car-import business, built around transparent 
 
 `TypeScript` · `Python` · `Node.js` · `React` · `Astro` · `SQLite` · `APIs` · `Git/GitHub` · `Vercel` · `FFmpeg`
 
-**AI & media:** Claude Code · Claude API · OpenAI · ElevenLabs · FLUX · Runway
+**AI development:** Claude Code · Claude API · OpenAI  
+**Generative media:** Krea · FLUX · Nano Banana · Runway · ElevenLabs
 
 ## How I work
 
