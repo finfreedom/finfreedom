@@ -1,4 +1,4 @@
-# Nikita Borodin
+# 
 
 **AI Product Builder · Vibe Coder**
 
