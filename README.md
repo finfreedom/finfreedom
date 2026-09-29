@@ -38,4 +38,4 @@ Some of my main projects remain private because they contain production configur
 
 ## Links
 
-[Portfolio](https://link3.to/bitcoin89)
+
