@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="t d">
+  <title id="t">finfreedom by the numbers</title>
+  <desc id="d">1,074 commits in 90 days, 106k lines of Python and TypeScript, 787 YouTube channels measured, 10 AI agent roles, and the end-to-end video pipeline from idea to publish.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1023"/><stop offset="1" stop-color="#151036"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#B8A5FF"/>
+    </linearGradient>
+    <style>
+      .k{font:700 44px system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#F2F4FF;letter-spacing:-1px}
+      .u{font:600 15px system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#B8A5FF}
+      .s{font:500 13px system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#8E97C4}
+      .h{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#5EEAD4;letter-spacing:3px}
+      .n{font:700 15px system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#F2F4FF}
+      .tool{font:500 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#8E97C4}
+      .tile{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+      .t1{animation-delay:.1s}.t2{animation-delay:.25s}.t3{animation-delay:.4s}.t4{animation-delay:.55s}.t5{animation-delay:.7s}
+      @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+      .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.2s 1s cubic-bezier(.2,.7,.2,1) forwards}
+      @keyframes grow{to{transform:scaleX(1)}}
+      .node{opacity:0;animation:up .5s forwards}
+      .dot{offset-path:path("M110 420 H1170");animation:run 6s 1.6s linear infinite;opacity:0}
+      @keyframes run{0%{offset-distance:0%;opacity:0}4%{opacity:1}92%{opacity:1}100%{offset-distance:100%;opacity:0}}
+      .glow{animation:pulse 6s 1.6s linear infinite}
+      @media (prefers-reduced-motion: reduce){.tile,.node{animation:none;opacity:1}.bar{animation:none;transform:none}.dot{animation:none;opacity:0}}
+    </style>
+  </defs>
+  <rect width="1280" height="560" rx="22" fill="url(#bg)" stroke="#2C2766" stroke-width="2"/>
+
+  <text x="48" y="58" class="h">BY THE NUMBERS</text>
+  <text x="1232" y="58" class="s" text-anchor="end">all repositories, public and private · Oct 2026</text>
+
+  <g transform="translate(48 86)"><g class="tile t1">
+    <text y="46" class="k">1,074</text><text y="72" class="u">commits in 90 days</text>
+    <rect y="92" width="200" height="4" rx="2" fill="#1E2250"/><rect class="bar" y="92" width="200" height="4" rx="2" fill="url(#line)"/>
+    <text y="118" class="s">12 active repositories</text>
+  </g></g>
+  <g transform="translate(290 86)"><g class="tile t2">
+    <text y="46" class="k">106k</text><text y="72" class="u">lines of Python &amp; TS</text>
+    <rect y="92" width="200" height="4" rx="2" fill="#1E2250"/><rect class="bar" y="92" width="170" height="4" rx="2" fill="url(#line)"/>
+    <text y="118" class="s">pipelines, engines, tools</text>
+  </g></g>
+  <g transform="translate(532 86)"><g class="tile t3">
+    <text y="46" class="k">787</text><text y="72" class="u">YouTube channels measured</text>
+    <rect y="92" width="200" height="4" rx="2" fill="#1E2250"/><rect class="bar" y="92" width="150" height="4" rx="2" fill="url(#line)"/>
+    <text y="118" class="s">with control groups, via API</text>
+  </g></g>
+  <g transform="translate(774 86)"><g class="tile t4">
+    <text y="46" class="k">10</text><text y="72" class="u">AI agent roles</text>
+    <rect y="92" width="200" height="4" rx="2" fill="#1E2250"/><rect class="bar" y="92" width="120" height="4" rx="2" fill="url(#line)"/>
+    <text y="118" class="s">Claude · GPT · Gemini, one office</text>
+  </g></g>
+  <g transform="translate(1016 86)"><g class="tile t5">
+    <text y="46" class="k">7:01</text><text y="72" class="u">video built from a script</text>
+    <rect y="92" width="200" height="4" rx="2" fill="#1E2250"/><rect class="bar" y="92" width="200" height="4" rx="2" fill="url(#line)"/>
+    <text y="118" class="s">153 shots · 7 voices · auto-edited</text>
+  </g></g>
+
+  <line x1="48" x2="1232" y1="268" y2="268" stroke="#232052"/>
+  <text x="48" y="318" class="h">FROM IDEA TO PUBLISHED VIDEO</text>
+  <text x="1232" y="318" class="s" text-anchor="end">the pipeline behind the channels</text>
+
+  <line x1="110" x2="1170" y1="420" y2="420" stroke="#2C2766" stroke-width="2"/>
+  <line x1="110" x2="1170" y1="420" y2="420" stroke="url(#line)" stroke-width="2" class="bar" style="animation-delay:1.1s"/>
+
+  <g font-family="system-ui">
+    <g class="node" style="animation-delay:1.1s"><circle cx="110" cy="420" r="9" fill="#0B1023" stroke="#5EEAD4" stroke-width="2"/><text x="110" y="386" class="n" text-anchor="middle">Idea</text><text x="110" y="456" class="tool" text-anchor="middle">trend radar</text></g>
+    <g class="node" style="animation-delay:1.2s"><circle cx="242" cy="420" r="9" fill="#0B1023" stroke="#5EEAD4" stroke-width="2"/><text x="242" y="386" class="n" text-anchor="middle">Research</text><text x="242" y="456" class="tool" text-anchor="middle">Gemini · sources</text></g>
+    <g class="node" style="animation-delay:1.3s"><circle cx="375" cy="420" r="9" fill="#0B1023" stroke="#5EEAD4" stroke-width="2"/><text x="375" y="386" class="n" text-anchor="middle">Script</text><text x="375" y="456" class="tool" text-anchor="middle">GPT · Claude</text></g>
+    <g class="node" style="animation-delay:1.4s"><circle cx="507" cy="420" r="9" fill="#0B1023" stroke="#8FD8F0" stroke-width="2"/><text x="507" y="386" class="n" text-anchor="middle">Voice</text><text x="507" y="456" class="tool" text-anchor="middle">Qwen3-TTS</text></g>
+    <g class="node" style="animation-delay:1.5s"><circle cx="640" cy="420" r="9" fill="#0B1023" stroke="#8FD8F0" stroke-width="2"/><text x="640" y="386" class="n" text-anchor="middle">Footage</text><text x="640" y="456" class="tool" text-anchor="middle">CLIP + stock</text></g>
+    <g class="node" style="animation-delay:1.6s"><circle cx="772" cy="420" r="9" fill="#0B1023" stroke="#A9BDF8" stroke-width="2"/><text x="772" y="386" class="n" text-anchor="middle">Edit</text><text x="772" y="456" class="tool" text-anchor="middle">motion design</text></g>
+    <g class="node" style="animation-delay:1.7s"><circle cx="905" cy="420" r="9" fill="#0B1023" stroke="#A9BDF8" stroke-width="2"/><text x="905" y="386" class="n" text-anchor="middle">Render</text><text x="905" y="456" class="tool" text-anchor="middle">FFmpeg</text></g>
+    <g class="node" style="animation-delay:1.8s"><circle cx="1037" cy="420" r="9" fill="#0B1023" stroke="#B8A5FF" stroke-width="2"/><text x="1037" y="386" class="n" text-anchor="middle">Review</text><text x="1037" y="456" class="tool" text-anchor="middle">contact sheets</text></g>
+    <g class="node" style="animation-delay:1.9s"><circle cx="1170" cy="420" r="9" fill="#0B1023" stroke="#B8A5FF" stroke-width="2"/><text x="1170" y="386" class="n" text-anchor="middle">Publish</text><text x="1170" y="456" class="tool" text-anchor="middle">human approval</text></g>
+  </g>
+  <circle class="dot" r="6" fill="#5EEAD4"/>
+  <circle class="dot" r="12" fill="#5EEAD4" opacity=".25"/>
+
+  <text x="640" y="520" class="s" text-anchor="middle">Every step is code; every publish is approved by a human.</text>
+</svg>
