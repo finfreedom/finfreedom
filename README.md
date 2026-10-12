@@ -18,23 +18,23 @@
 
 <table>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/finfreedom/money-mind-studio-showcase"><img src="assets/money-mind.gif" alt="Money Mind Studio — structured AI content pipeline" width="100%" /></a>
+<a href="https://github.com/finfreedom/money-mind-studio-showcase"><img src="assets/money-mind.gif" alt="Live output: auto-generated Money Mind Studio shorts" width="100%" /></a>
 <br /><b>Money Mind Studio</b> · <sub>AI CONTENT</sub><br />
 Structured generation, validation, voice, rendering and Telegram approvals. Designed for recoverable, cost-aware production.<br />
 <a href="https://github.com/finfreedom/money-mind-studio-showcase">Explore case study ↗</a>
 </td><td width="50%" valign="top">
-<a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="assets/brand-collapse.gif" alt="Brand Collapse Studio — documentary workflow" width="100%" /></a>
+<a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="assets/brand-collapse.gif" alt="Live output: Marketing Postmortem documentary scenes" width="100%" /></a>
 <br /><b>Brand Collapse Studio</b> · <sub>CREATIVE ENGINEERING</sub><br />
 Documentary-video pipeline connecting narration, scene timing, media search, visual checks and FFmpeg rendering.<br />
 <a href="https://github.com/finfreedom/brand-collapse-studio-showcase">Explore case study ↗</a>
 </td></tr>
 <tr><td width="50%" valign="top">
-<a href="https://github.com/finfreedom/china-auto-import-showcase"><img src="assets/china-auto.gif" alt="China Auto Import — commercial web product" width="100%" /></a>
+<a href="https://github.com/finfreedom/china-auto-import-showcase"><img src="assets/china-auto.gif" alt="Live site: car catalog, car page and cost calculator" width="100%" /></a>
 <br /><b>China Auto Import</b> · <sub>WEB PRODUCT</sub><br />
 Commercial website with cost estimation, contextual inquiries, SEO and analytics, built around customer trust.<br />
 <a href="https://github.com/finfreedom/china-auto-import-showcase">Explore case study ↗</a>
 </td><td width="50%" valign="top">
-<a href="https://github.com/finfreedom/portaldot-ink-toolchain"><img src="assets/portaldot.gif" alt="Portaldot toolchain — tested smart-contract compatibility guide" width="100%" /></a>
+<a href="https://github.com/finfreedom/portaldot-ink-toolchain"><img src="assets/portaldot.gif" alt="Terminal: building an ink! 5 contract for the Portaldot V3 testnet" width="100%" /></a>
 <br /><b>Portaldot ink! Toolchain</b> · <sub>WEB3 RESEARCH</sub><br />
 A verified legacy ink! build/deploy recipe, plus toolchain compatibility notes for the V3 testnet.<br />
 <a href="https://github.com/finfreedom/portaldot-ink-toolchain">Explore public repository ↗</a>
@@ -46,11 +46,11 @@ A verified legacy ink! build/deploy recipe, plus toolchain compatibility notes f
 <table>
 <tr>
 <td width="50%" valign="top"><img src="assets/ai-office.gif" alt="Live recording of the AI Office pixel-art headquarters" width="100%" /><br /><b>AI Office</b> <sub>· ARCHITECTURE / DEVELOPMENT</sub><br />Multi-model personal AI system for coordinating tasks, approvals, memory and auditing. Architecture and orchestration work in progress.</td>
-<td width="50%" valign="top"><img src="assets/pixel-stage.gif" alt="Pixel Stage illustrated project artwork" width="100%" /><br /><b>Pixel Stage</b> <sub>· PIXEL VIDEO ENGINE</sub><br />A timing-driven 16-bit visual storytelling engine with scene choreography, sprites and synthesized effects.</td>
+<td width="50%" valign="top"><img src="assets/pixel-stage.gif" alt="Live output: 16-bit pixel scenes rendered by Pixel Stage" width="100%" /><br /><b>Pixel Stage</b> <sub>· PIXEL VIDEO ENGINE</sub><br />A timing-driven 16-bit visual storytelling engine with scene choreography, sprites and synthesized effects.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="assets/facts-shorts.gif" alt="Facts Shorts illustrated project artwork" width="100%" /><br /><b>Facts Shorts</b> <sub>· MEDIA PIPELINE</sub><br />Research-backed animal content with local voice generation, CLIP footage selection and automated editing.</td>
-<td width="50%" valign="top"><img src="assets/research.gif" alt="Illustrated data chart for YouTube niche research" width="100%" /><br /><b>YouTube Niche Research</b> <sub>· DATA TOOLING</sub><br />Research toolkit that compares emerging niches and tracks trends using the YouTube Data API.</td>
+<td width="50%" valign="top"><img src="assets/facts-shorts.gif" alt="Live output: four auto-built Animals Correct Humans shorts" width="100%" /><br /><b>Facts Shorts</b> <sub>· MEDIA PIPELINE</sub><br />Research-backed animal content with local voice generation, CLIP footage selection and automated editing.</td>
+<td width="50%" valign="top"><img src="assets/research.gif" alt="Animated chart: share of new long-form channels reaching monetization by niche" width="100%" /><br /><b>YouTube Niche Research</b> <sub>· DATA TOOLING</sub><br />Research toolkit that compares emerging niches and tracks trends using the YouTube Data API.</td>
 </tr>
 </table>
 
