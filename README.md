@@ -23,7 +23,7 @@
 Structured generation, validation, voice, rendering and Telegram approvals. Designed for recoverable, cost-aware production.<br />
 <a href="https://github.com/finfreedom/money-mind-studio-showcase">Explore case study ↗</a>
 </td><td width="50%" valign="top">
-<a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="assets/brand-collapse.gif" alt="Live output: Marketing Postmortem documentary scenes" width="100%" /></a>
+<a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="assets/brand-collapse.gif" alt="Live output: documentary scenes produced by Brand Collapse Studio" width="100%" /></a>
 <br /><b>Brand Collapse Studio</b> · <sub>CREATIVE ENGINEERING</sub><br />
 Documentary-video pipeline connecting narration, scene timing, media search, visual checks and FFmpeg rendering.<br />
 <a href="https://github.com/finfreedom/brand-collapse-studio-showcase">Explore case study ↗</a>
@@ -49,7 +49,7 @@ A verified legacy ink! build/deploy recipe, plus toolchain compatibility notes f
 <td width="50%" valign="top"><img src="assets/pixel-stage.gif" alt="Live output: 16-bit pixel scenes rendered by Pixel Stage" width="100%" /><br /><b>Pixel Stage</b> <sub>· PIXEL VIDEO ENGINE</sub><br />A timing-driven 16-bit visual storytelling engine with scene choreography, sprites and synthesized effects.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="assets/facts-shorts.gif" alt="Live output: four auto-built Animals Correct Humans shorts" width="100%" /><br /><b>Facts Shorts</b> <sub>· MEDIA PIPELINE</sub><br />Research-backed animal content with local voice generation, CLIP footage selection and automated editing.</td>
+<td width="50%" valign="top"><img src="assets/facts-shorts.gif" alt="Live output: four automatically produced animal-fact shorts" width="100%" /><br /><b>Facts Shorts</b> <sub>· MEDIA PIPELINE</sub><br />Research-backed animal content with local voice generation, CLIP footage selection and automated editing.</td>
 <td width="50%" valign="top"><img src="assets/research.gif" alt="Animated chart: share of new long-form channels reaching monetization by niche" width="100%" /><br /><b>YouTube Niche Research</b> <sub>· DATA TOOLING</sub><br />Research toolkit that compares emerging niches and tracks trends using the YouTube Data API.</td>
 </tr>
 </table>
