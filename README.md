@@ -1,155 +1,111 @@
 <div align="center">
 
-<img src="assets/finfreedom-banner.svg" alt="finfreedom — AI Product Builder, Automation and Creative Systems" width="100%" />
+<img src="assets/hero-cosmos.png" alt="finfreedom — AI Product Builder, cosmic developer portfolio" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=3000&amp;pause=1200&amp;color=62D8FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=AI+Product+Builder+%E2%80%A2+Vibe+Coder;Automation+and+Creative+Systems;AI-Assisted+Development+with+Claude+Code;From+idea+to+working+products" alt="Animated introduction to finfreedom" />
+<img src="assets/pacman-idea.gif" alt="Pixel Pac-Man eats the words From idea to working products" width="88%" />
 
-**I turn product ideas into working systems — from architecture and prototypes to real-world iteration.**
+<br />
 
-I work with AI-assisted development, automation pipelines, creative tooling, and practical web products.
+**I build practical AI products, automated workflows and creative systems — from idea to tested output.**
 
-<img src="https://img.shields.io/badge/FOCUS-Product%20Building-00BBD6?style=flat-square&amp;labelColor=17233B" alt="Focus: Product Building" />
-<img src="https://img.shields.io/badge/WORKFLOW-AI--Assisted-8A72FF?style=flat-square&amp;labelColor=17233B" alt="Workflow: AI-Assisted" />
-<img src="https://img.shields.io/badge/APPROACH-Build%20%2F%20Test%20%2F%20Iterate-43C4F4?style=flat-square&amp;labelColor=17233B" alt="Approach: Build, Test, Iterate" />
+<sub>Product thinking · AI-assisted engineering · Real-world iteration</sub>
 
 </div>
 
----
-
-## ⚡ What I build
-
-My work sits at the intersection of **product design, AI-assisted implementation, APIs, automation, and media production**. I use **Claude Code** as my primary AI development environment: I define the behavior, investigate failures, evaluate outcomes, and keep iterating until the system solves the intended problem.
-
-A strong product is more than a prompt or a demo. It needs **useful workflows, validation, recovery from failures, cost awareness, and a clear user experience**.
-
-## 🛠️ Tools & technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,astro,git,github,vscode,vercel&amp;theme=dark" alt="Python, TypeScript, JavaScript, Node.js, React, Astro, Git, GitHub, VS Code and Vercel" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Claude_Code-242939?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI_API-242939?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/SQLite-242939?style=for-the-badge&amp;logo=sqlite&amp;logoColor=66CFFF" alt="SQLite" />
-<img src="https://img.shields.io/badge/FFmpeg-242939?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=6AD9B8" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/APIs_%26_Automation-242939?style=for-the-badge&amp;logo=githubactions&amp;logoColor=A79BFF" alt="APIs and automation" />
-
-</div>
-
----
-
-## 🚀 Featured projects
+## ✦ Selected work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Money Mind Studio</h3>
-      <p><strong>AI-powered content production pipeline</strong></p>
-      <p>A multi-stage system for knowledge retrieval, structured generation, validation, voice, rendering, Telegram approval, and publishing. Built with resumable state, error classification, and cost-aware execution.</p>
-      <p><code>TypeScript</code> <code>Node.js</code> <code>Claude</code> <code>OpenAI</code> <code>SQLite</code> <code>Remotion</code></p>
-      <a href="https://github.com/finfreedom/money-mind-studio-showcase"><img src="https://img.shields.io/badge/Explore_Case_Study-00AFC5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Money Mind Studio case study" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 Brand Collapse Studio</h3>
-      <p><strong>Documentary-video production automation</strong></p>
-      <p>A Python workflow connecting narration, scene timing, stock-footage retrieval, visual checks, graphics, and FFmpeg rendering. Developed through repeated render-review-improve cycles.</p>
-      <p><code>Python</code> <code>OpenAI TTS</code> <code>FFmpeg</code> <code>Pexels API</code> <code>Pillow</code></p>
-      <a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="https://img.shields.io/badge/Explore_Case_Study-7D65DF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Brand Collapse Studio case study" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 China Auto Import</h3>
-      <p><strong>Commercial web product for an active business</strong></p>
-      <p>A conversion-focused product addressing international car-buying uncertainty with transparent cost estimates, contextual Telegram inquiries, search visibility, analytics, and a trust-centered customer journey.</p>
-      <p><code>Astro</code> <code>React</code> <code>TypeScript</code> <code>SSR</code> <code>Vercel</code></p>
-      <a href="https://github.com/finfreedom/china-auto-import-showcase"><img src="https://img.shields.io/badge/Explore_Case_Study-228FC8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View China Auto Import case study" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛓️ Portaldot ink! Toolchain</h3>
-      <p><strong>Verified smart-contract compatibility research</strong></p>
-      <p>A technical guide to building and deploying ink! contracts on Portaldot's legacy runtime, with a comparison to V3. Documents tested toolchain versions, deployment constraints, and reproducible solutions.</p>
-      <p><code>Rust</code> <code>ink!</code> <code>Substrate</code> <code>Polkadot.js</code></p>
-      <a href="https://github.com/finfreedom/portaldot-ink-toolchain"><img src="https://img.shields.io/badge/Explore_Repository-7D65DF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Portaldot ink toolchain repository" /></a>
-    </td>
-  </tr>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/finfreedom/money-mind-studio-showcase"><img src="assets/money-mind.png" alt="Money Mind Studio — structured AI content pipeline" width="100%" /></a>
+<br /><b>Money Mind Studio</b> · <sub>AI CONTENT</sub><br />
+Structured generation, validation, voice, rendering and Telegram approvals. Designed for recoverable, cost-aware production.<br />
+<a href="https://github.com/finfreedom/money-mind-studio-showcase">Explore case study ↗</a>
+</td><td width="50%" valign="top">
+<a href="https://github.com/finfreedom/brand-collapse-studio-showcase"><img src="assets/brand-collapse.png" alt="Brand Collapse Studio — documentary workflow" width="100%" /></a>
+<br /><b>Brand Collapse Studio</b> · <sub>CREATIVE ENGINEERING</sub><br />
+Documentary-video pipeline connecting narration, scene timing, media search, visual checks and FFmpeg rendering.<br />
+<a href="https://github.com/finfreedom/brand-collapse-studio-showcase">Explore case study ↗</a>
+</td></tr>
+<tr><td width="50%" valign="top">
+<a href="https://github.com/finfreedom/china-auto-import-showcase"><img src="assets/china-auto.png" alt="China Auto Import — commercial web product" width="100%" /></a>
+<br /><b>China Auto Import</b> · <sub>WEB PRODUCT</sub><br />
+Commercial website with cost estimation, contextual inquiries, SEO and analytics, built around customer trust.<br />
+<a href="https://github.com/finfreedom/china-auto-import-showcase">Explore case study ↗</a>
+</td><td width="50%" valign="top">
+<a href="https://github.com/finfreedom/portaldot-ink-toolchain"><img src="assets/portaldot.png" alt="Portaldot toolchain — tested smart-contract compatibility guide" width="100%" /></a>
+<br /><b>Portaldot ink! Toolchain</b> · <sub>WEB3 RESEARCH</sub><br />
+A verified legacy ink! build/deploy recipe, plus toolchain compatibility notes for the V3 testnet.<br />
+<a href="https://github.com/finfreedom/portaldot-ink-toolchain">Explore public repository ↗</a>
+</td></tr>
 </table>
 
----
-
-## 🧪 In the lab
-
-Ongoing private projects and production systems. More public case studies may follow as they become ready to share.
+## ◈ In the lab
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧭 AI Office</h3>
-      <p>Designing a personal AI coordination system with multiple models, persistent context, structured tasks, and cost controls.</p>
-      <sub>Architecture and evaluation in progress</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🕹️ Pixel Stage</h3>
-      <p>Building a timing-driven pixel-art scene engine for animated storytelling and reusable media production.</p>
-      <sub>Private creative tooling</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🐾 Facts Shorts</h3>
-      <p>Developing repeatable workflows for research-backed animal videos, voice casting, footage selection, and rendering.</p>
-      <sub>Private content production</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/ai-office-real.png" alt="Actual pixel-art visual from AI Office" width="100%" /><br /><b>AI Office</b> <sub>· ARCHITECTURE / DEVELOPMENT</sub><br />Multi-model personal AI system for coordinating tasks, approvals, memory and auditing. Architecture and orchestration work in progress.</td>
+<td width="50%" valign="top"><img src="assets/pixel-stage.png" alt="Pixel Stage illustrated project artwork" width="100%" /><br /><b>Pixel Stage</b> <sub>· PIXEL VIDEO ENGINE</sub><br />A timing-driven 16-bit visual storytelling engine with scene choreography, sprites and synthesized effects.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="assets/facts-shorts.png" alt="Facts Shorts illustrated project artwork" width="100%" /><br /><b>Facts Shorts</b> <sub>· MEDIA PIPELINE</sub><br />Research-backed animal content with local voice generation, CLIP footage selection and automated editing.</td>
+<td width="50%" valign="top"><img src="assets/research.png" alt="Illustrated data chart for YouTube niche research" width="100%" /><br /><b>YouTube Niche Research</b> <sub>· DATA TOOLING</sub><br />Research toolkit that compares emerging niches and tracks trends using the YouTube Data API.</td>
+</tr>
 </table>
 
----
+<sub>Private projects are shown as selected concepts and public-safe descriptions, not source-code releases. Only the AI Office card uses a real supplied project screenshot; other card graphics are illustrations.</sub>
 
-## 📊 GitHub activity
+## ⌘ Tools & technologies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=finfreedom&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=62D8FF&amp;icon_color=A58DFF&amp;text_color=C9D4E8" alt="GitHub statistics for finfreedom" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finfreedom&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=62D8FF&amp;text_color=C9D4E8" alt="Public repository languages for finfreedom" />
+**Core development**
 
-<br />
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,astro,git,github,vscode,vercel&amp;theme=dark&amp;perline=10" height="34" alt="Python, TypeScript, JavaScript, Node.js, React, Astro, Git, GitHub, VS Code and Vercel" />
 
-<img src="https://streak-stats.demolab.com?user=finfreedom&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=62D8FF&amp;fire=A58DFF&amp;currStreakLabel=62D8FF" alt="GitHub contribution streak for finfreedom" />
+**AI models & creative tools**
 
-<br />
+<img height="23" src="https://img.shields.io/badge/Claude_Code-25233E?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
+<img height="23" src="https://img.shields.io/badge/ChatGPT-25233E?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="ChatGPT" />
+<img height="23" src="https://img.shields.io/badge/Gemini-25233E?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
+<img height="23" src="https://img.shields.io/badge/OpenAI_API-25233E?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
+<img height="23" src="https://img.shields.io/badge/ElevenLabs-25233E?style=flat-square" alt="ElevenLabs" />
+<img height="23" src="https://img.shields.io/badge/Seedance-25233E?style=flat-square" alt="Seedance" />
+<img height="23" src="https://img.shields.io/badge/Nano_Banana-25233E?style=flat-square" alt="Nano Banana" />
+<img height="23" src="https://img.shields.io/badge/Krea-25233E?style=flat-square" alt="Krea" />
+<img height="23" src="https://img.shields.io/badge/FLUX-25233E?style=flat-square" alt="FLUX" />
+<img height="23" src="https://img.shields.io/badge/Runway-25233E?style=flat-square" alt="Runway" />
+<img height="23" src="https://img.shields.io/badge/Qwen3--TTS-25233E?style=flat-square" alt="Qwen3 TTS" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=finfreedom&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=86C8F4&amp;line=A58DFF&amp;point=62D8FF" alt="GitHub contribution activity graph for finfreedom" width="100%" />
+**Automation, APIs & local tooling**
+
+<sub>
+
+automation / APIs · MCP · SQLite · FFmpeg · YouTube Data API · Pexels · Pixabay · Freesound · Pillow · NumPy · PyTorch · MLX · CLIP · faster-whisper · GitHub CLI · uv · Vercel
+
+</sub>
 
 </div>
 
-<sub>Statistics rely on external services and may reflect only visible GitHub activity.</sub>
+## ↗ How I work
 
----
+**Define the problem → build the smallest useful version → inspect real output → fix root causes → iterate.**
 
-## 🔁 How I work
+I use AI as an implementation accelerator while retaining responsibility for product choices, testing and acceptance. I prefer reusable systems, documented trade-offs, source-backed research and licensed media.
 
-```mermaid
-flowchart LR
-    A[Define the problem] --> B[Design the workflow]
-    B --> C[Build with AI assistance]
-    C --> D[Test real behavior]
-    D --> E[Fix root causes]
-    E --> F[Ship and iterate]
-    F -. Feedback .-> A
-```
-
-I use AI tools to accelerate implementation, but I remain responsible for **requirements, product decisions, acceptance criteria, testing, and iteration**. My focus is not to generate code for its own sake — it's to get useful systems working.
-
-Some production repositories remain private because they contain proprietary processes, business details, or unpublished work. Their public case studies are intentionally scoped to what can be shared safely.
+<details>
+<summary><b>📊 GitHub activity (expand)</b></summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=finfreedom&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1023&amp;title_color=B8A5FF&amp;text_color=D1D7F4&amp;icon_color=7E7CFF" alt="GitHub statistics for finfreedom, served dynamically" width="52%" />
+</p>
+<sub>External image providers may not always load; statistics reflect publicly accessible activity.</sub>
+</details>
 
 <div align="center">
 
----
+<img src="https://img.shields.io/badge/BUILD-VERIFY--ITERATE-7047C8?style=flat-square&amp;labelColor=10152C" alt="Build, verify, iterate" />
 
-**Build useful things. Verify the results. Keep improving.**
-
-<a href="https://github.com/finfreedom"><img src="https://img.shields.io/badge/Explore_my_GitHub-17233B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit finfreedom GitHub profile" /></a>
+<sub>Built as a portfolio of real work. Public case studies ↗ <a href="https://github.com/finfreedom?tab=repositories">All repositories</a></sub>
 
 </div>
