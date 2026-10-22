@@ -1,7 +1,7 @@
 <p align="center">
-<img src="assets/hero.png" alt="FINFREEDOM. AI products. Built, tested, shipped." width="380" />
+<img src="assets/hero.png" alt="FINFREEDOM. AI products. Built, tested, shipped." width="610" />
 <br>
-<img src="assets/pac.webp" alt="Pac-Man chases three ghosts and leaves the words From idea to working product." width="380" />
+<img src="assets/pac.webp" alt="Pac-Man chases three ghosts and leaves the words From idea to working product." width="610" />
 </p>
 
 <p align="center">I design and build AI products and the systems that run them, from the first idea to a tested release.</p>
