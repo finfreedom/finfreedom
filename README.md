@@ -1,8 +1,10 @@
-<img src="assets/hero.png" alt="FINFREEDOM. AI products. Built, tested, shipped." width="100%" />
+<p align="center">
+<img src="assets/hero.png" alt="FINFREEDOM. AI products. Built, tested, shipped." width="380" />
+<br>
+<img src="assets/pac.webp" alt="Pac-Man chases three ghosts and leaves the words From idea to working product." width="380" />
+</p>
 
-<img src="assets/pac.webp" alt="Pac-Man chases three ghosts and leaves the words From idea to working product." width="100%" />
-
-I design and build AI products and the systems that run them, from the first idea to a tested release.
+<p align="center">I design and build AI products and the systems that run them, from the first idea to a tested release.</p>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/claude/ffffff"><img src="https://cdn.simpleicons.org/claude/1f2328" height="22" alt="Claude Code" title="Claude Code"></picture>&nbsp;&nbsp;&nbsp;
