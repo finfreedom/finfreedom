@@ -1,5 +1,5 @@
 <p>
-<img src="assets/hero.png" alt="FINFREEDOM. AI products. Built, tested, shipped." width="100%" />
+<img src="assets/hero.webp" alt="finfreedom: a developer at the monitors under a black and white planet, with a cat on the desk. AI product builder." width="100%" />
 <br>
 <img src="assets/pac.webp" alt="Pac-Man chases three ghosts and leaves the words From idea to working product." width="100%" />
 </p>
